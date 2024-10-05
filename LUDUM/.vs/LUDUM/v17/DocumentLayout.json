@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LUDUM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091C3FF4-25BF-B42A-5E53-4B134DC1E36A}|Assembly-CSharp.csproj|d:\\ludum\\assets\\scripts\\playerscripts\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091C3FF4-25BF-B42A-5E53-4B134DC1E36A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091C3FF4-25BF-B42A-5E53-4B134DC1E36A}|Assembly-CSharp.csproj|d:\\ludum\\assets\\scripts\\playerscripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091C3FF4-25BF-B42A-5E53-4B134DC1E36A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flashLight.cs",
+              "DocumentMoniker": "D:\\LUDUM\\Assets\\Scripts\\playerScripts\\flashLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerScripts\\flashLight.cs",
+              "ToolTip": "D:\\LUDUM\\Assets\\Scripts\\playerScripts\\flashLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerScripts\\flashLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:33:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cameraZoom.cs",
+              "DocumentMoniker": "D:\\LUDUM\\Assets\\Scripts\\playerScripts\\cameraZoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\playerScripts\\cameraZoom.cs",
+              "ToolTip": "D:\\LUDUM\\Assets\\Scripts\\playerScripts\\cameraZoom.cs",
+              "RelativeToolTip": "Assets\\Scripts\\playerScripts\\cameraZoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:53:24.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
